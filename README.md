@@ -36,7 +36,7 @@ Record a short video of your story to display here on your README. You can do th
 ## Story Description
 
  This project showcased things I have / had interest and and a few places ive visited. Each image had an image filter along to go with it from these past few units.
-## Image Filter Analysis
+## Image Filter Analysis 
 
 Choose at least 2 filters uses in your animation to explain how the pixels are modified. If you created a new image filter that was not one of the ones from this unit, make sure to explain and analyze that filter(s) before choosing ones that came from this unit.
 the  one.mirrorVertical(); image filter, adds another exact image nearly on top of another because the pixels are a bit off from eachother to create a sort of mirror effect.
